@@ -2,6 +2,8 @@
 # Keywords: .append,.split,.strip,.replace
 # Important. Double for loop requires two blank array to remove \n and to start checking list by indices again.
 
+# For reference:
+
 daily_sales = \
 """Edith Mcbride   ;,;$1.21   ;,;   white ;,; 
 09/15/17   ,Herbert Tran   ;,;   $7.29;,; 
